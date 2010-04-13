@@ -14,7 +14,7 @@ If your site contains stories about China, this plugin is for you. Quickly and e
 The Hao Hao Report contains the hottest and newest China news, blogs, videos and pictures as submitted and voted on by HHR community. Breaking China news on travel, business, technology, politics, entertainment, and much more!
 
 == Installation ==
-Simply install this plugin as you would any WordPress plugin. Either use the automated installer, or download/unzip this package to your computer, and FTP the /hhr_button/ folder to your plugins directory (wp-content/plugins). You can enable and disable the button from the plugin's settings page, as well as set the position, location and styles of the button.
+Simply install this plugin as you would any WordPress plugin. Either use the automated plugin installer in your WordPress admin area, or download/unzip this package to your computer, and FTP the /hao-hao-report-button/ folder to your plugins directory (wp-content/plugins). You can enable and disable the button from the plugin's settings page, as well as set the position, location and styles of the button.
 
 == Frequently Asked Questions ==
 = What is the Hao Hao Report? =
